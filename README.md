@@ -6,7 +6,7 @@ MergeX is a professional, cloud-powered Microsoft Word Add-in designed to automa
 
 ### ✨ Key Features
 - **One-Click Bulk Merge:** Generate dozens of documents instantly from a single Excel sheet.
-- **Smart File Naming:** Automatically names each generated file based on specific columns in your Excel data.
+- **Smart File Naming:** Choose exactly how your files are named using a dynamic dropdown that automatically reads your Excel columns.
 - **Instant ZIP Download:** All merged documents are packaged into a single ZIP file for easy organization.
 - **Cloud Powered:** No heavy installation. Works directly within Word Online and Desktop via a secure manifest.
 - **Data Privacy:** Processing happens in your browser. We do not store your document or Excel data.
@@ -33,8 +33,9 @@ Microsoft Office interfaces vary between **Personal** and **Work/School** accoun
 ### 📖 User Guide
 1. **Prepare your Template:** Use curly braces `{}` in your Word document to define fields (e.g., `{Name}`, `{Employee_ID}`, `{Department}`).
 2. **Prepare your Data:** Ensure your Excel column headers match the names inside the braces exactly.
-3. **Run MergeX:** Open the Add-in, upload your Excel file, and hit **Generate Documents**.
-4. **Download:** Once processing is complete, download the ZIP file containing all your personalized documents.
+3. **Run MergeX:** Open the Add-in and click to upload your Excel file.
+4. **Select File Name:** Choose the column you want to use for naming your generated files from the dropdown menu, and hit **Generate Documents**.
+5. **Download:** Once processing is complete, download the ZIP file containing all your personalized documents.
 
 ---
 
